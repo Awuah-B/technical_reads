@@ -1,0 +1,10 @@
+1. King C programming - bitfield operation - terminated
+
+2. Vector calculus - Numerical approximation (multiple integral) - 
+progress
+
+3. mml - Gradinet tensor - progress
+
+4. ModernC - level 1 Numerics - progress
+
+5.
