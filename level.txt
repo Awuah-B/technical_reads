@@ -1,7 +1,6 @@
-1. King C programming - bitfield operation - terminated
+]1. King C programming - bitfield operation - terminated
 
-2. Vector calculus - Numerical approximation (multiple integral) - 
-progress
+2. Vector calculus - Greens theorem - progress
 
 3. mml - Gradinet tensor - progress
 
