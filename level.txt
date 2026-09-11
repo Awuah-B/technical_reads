@@ -2,7 +2,7 @@
 
 2. Vector calculus - Greens theorem - progress
 
-3. mml - Gradinet tensor - progress
+3. mml - Probability - progress
 
 4. ModernC - level 1 Numerics - progress
 
