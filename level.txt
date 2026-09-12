@@ -2,8 +2,10 @@
 
 2. Vector calculus - Greens theorem - progress
 
-3. mml - Probability - progress
+3. mml - Probability - progress   https://www.youtube.com/watch?v=LX2q356N2rU
 
 4. ModernC - level 1 Numerics - progress
 
-5.
+5. # A Probalitic perspective of machine learning
+
+6. 
