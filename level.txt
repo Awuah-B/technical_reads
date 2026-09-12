@@ -8,4 +8,5 @@
 
 5. # A Probalitic perspective of machine learning
 
-6. 
+6.Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter 
+Estimation 
