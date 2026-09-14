@@ -2,7 +2,8 @@
 
 2. Vector calculus - Greens theorem - progress
 
-3. mml - Probability - progress   https://www.youtube.com/watch?v=LX2q356N2rU
+3. mml - Marginals and Conditionals of Gaussians - progress   
+https://www.youtube.com/watch?v=LX2q356N2rU
 
 4. ModernC - level 1 Numerics - progress
 
@@ -13,3 +14,4 @@ Estimation
 
 7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications with 
 Numpy, SciPy and Matplotlib-Apress (2019).pdf - chapter 5 solving equations
+github exercises - 
