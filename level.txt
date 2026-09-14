@@ -14,4 +14,4 @@ Estimation
 
 7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications with 
 Numpy, SciPy and Matplotlib-Apress (2019).pdf - chapter 5 solving equations
-github exercises - 
+github exercises - https://github.com/Awuah-B/Exercises/tree/main/NumericalPython
