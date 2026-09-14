@@ -12,6 +12,6 @@ https://www.youtube.com/watch?v=LX2q356N2rU
 6.Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter 
 Estimation 
 
-7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications with 
-Numpy, SciPy and Matplotlib-Apress (2019).pdf - chapter 5 solving equations
+7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications (2019).pdf - chapter 5 
+solving equations (non-linear root finding)
 github exercises - https://github.com/Awuah-B/Exercises/tree/main/NumericalPython
