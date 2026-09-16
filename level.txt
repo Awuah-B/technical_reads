@@ -2,15 +2,15 @@
 
 2. Vector calculus - Greens theorem - progress
 
-3. mml - Marginals and Conditionals of Gaussians - progress   
-https://www.youtube.com/watch?v=LX2q356N2rU
+3. mml - Continuous Optimization - progress   
+
 
 4. ModernC - level 1 Numerics - progress
 
-5. # A Probalitic perspective of machine learning
+5.NULL # A Probalitic perspective of machine learning / Bishop 2006
 
 6.Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter 
-Estimation 
+Estimation https://www.youtube.com/watch?v=LX2q356N2rU
 
 7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications (2019).pdf - chapter 5 
 solving equations (non-linear root finding)
