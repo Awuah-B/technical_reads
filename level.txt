@@ -1,17 +1,25 @@
-]1. King C programming - bitfield operation - terminated
+MACHINE LEARNING
 
-2. Vector calculus - Greens theorem - progress
+1. mml - Convex Optimization - progress
+2. Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications (2019).pdf - 
+chapter 5 solving equations (non-linear root finding)
+github exercises - https://github.com/Awuah-B/Exercises/tree/main/NumericalPython
 
-3. mml - Convex Optimization - progress   
+FINANCIAL MATHEMATICS / ALGO-TRADING
 
+1. Basics of Financial Mathematics
+2. Chaos_and_order_in_the_capital_markets_a_new_view_of_Peters - PART 3 NON-LINEAR DYNAMIC - Terminated
+3. (Chapman & Hall_CRC Financial Mathematics) Raja Velu, Maxence Hardy, Daniel Nehren - Algorithmic Trading 
+and Quantitative Strategies-Chapman and Hall_CRC (2020) - Multivariate Time series - paused
 
-4. ModernC - level 1 Numerics - progress
+COMPUTER SCIENCE
 
-5.NULL # A Probalitic perspective of machine learning / Bishop 2006
+1. King C programming - bitfield operation - terminated
+2. ModernC - level 1 Numerics - progress
 
-6.Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter 
+GENERAL KNOWLEDGE
+
+1. Vector calculus - Greens theorem - progress
+2. Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter
 Estimation https://www.youtube.com/watch?v=LX2q356N2rU
 
-7.Robert Johansson - Numerical Python_ Scientific Computing and Data Science Applications (2019).pdf - chapter 5 
-solving equations (non-linear root finding)
-github exercises - https://github.com/Awuah-B/Exercises/tree/main/NumericalPython
