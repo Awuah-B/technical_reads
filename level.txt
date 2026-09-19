@@ -7,7 +7,7 @@ github exercises - https://github.com/Awuah-B/Exercises/tree/main/NumericalPytho
 
 FINANCIAL MATHEMATICS / ALGO-TRADING
 
-1. Basics of Financial Mathematics
+1. Basics of Financial Mathematics  - properties of martingale
 2. Chaos_and_order_in_the_capital_markets_a_new_view_of_Peters - PART 3 NON-LINEAR DYNAMIC - Terminated
 3. (Chapman & Hall_CRC Financial Mathematics) Raja Velu, Maxence Hardy, Daniel Nehren - Algorithmic Trading 
 and Quantitative Strategies-Chapman and Hall_CRC (2020) - Multivariate Time series - paused
