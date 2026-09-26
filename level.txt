@@ -15,11 +15,11 @@ and Quantitative Strategies-Chapman and Hall_CRC (2020) - Multivariate Time seri
 COMPUTER SCIENCE
 
 1. King C programming - bitfield operation - terminated
-2. ModernC - level 1 Numerics - progress
+2. ModernC - level 1 Numerics - progress page 121
 
 GENERAL KNOWLEDGE
 
 1. Vector calculus - Greens theorem - progress
 2. Introduction_to_Probability_and_Statistics by ross - re-read - Starting Chapter 7 Parameter
 Estimation https://www.youtube.com/watch?v=LX2q356N2rU
-
+3. Convex Optimisation by Boyd. Cambridge University - Chapter 2 -some examples- polyhedra
