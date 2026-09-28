@@ -25,3 +25,4 @@ Estimation https://www.youtube.com/watch?v=LX2q356N2rU
 3. Convex Optimisation by Boyd. Cambridge University - Chapter 2 -some examples- polyhedra
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h
+4. Linear Algebra done right - chapter 1 direct sum
